@@ -25,7 +25,7 @@
             ],
             "type": "STEP",
             "name": "roll",
-            "description": "use dice to roll",
+            "description": "use dice to roll\nprovide the func_name without any parentheses or additional characters.\n",
             "tool": "RollD20",
             "true_next": null,
             "false_next": null
