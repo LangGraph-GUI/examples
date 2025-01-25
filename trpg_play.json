@@ -1,4 +1,6 @@
-{
+[
+  {
+    "name": "root",
     "nodes": [
       {
         "uniq_id": "uniq_id_10",
@@ -58,5 +60,6 @@
         }
       }
     ],
-    "node_counter": 11
+    "serial_number": 11
   }
+]
