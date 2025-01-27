@@ -67,7 +67,7 @@
         "uniq_id": "2",
         "type": "STEP",
         "name": "Node 2",
-        "description": "buy a dog",
+        "description": "feed a dog",
         "tool": "",
         "nexts": [],
         "true_next": null,
